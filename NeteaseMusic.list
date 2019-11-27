@@ -2,6 +2,3 @@
 USER-AGENT,NeteaseMusic*,DIRECT
 DOMAIN-SUFFIX,music.126.net,NeteaseMusic
 DOMAIN-SUFFIX,music.163.com,NeteaseMusic
-#IP-CIDR,59.111.128.0/17,NeteaseMusic
-#IP-CIDR,115.236.112.0/20,NeteaseMusic
-#IP-CIDR,223.252.192.0/19,NeteaseMusic

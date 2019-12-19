@@ -1,4 +1,4 @@
-hostname = api.m.jd.com, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com
+hostname = api.m.jd.com, api.termius.com, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com
 
 # JD Price
 ^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig) url script-response-body JD.js

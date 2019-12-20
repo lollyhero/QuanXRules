@@ -2,3 +2,19 @@
 USER-AGENT,NeteaseMusic*,NeteaseMusic
 DOMAIN-SUFFIX,music.126.net,NeteaseMusic
 DOMAIN-SUFFIX,music.163.com,NeteaseMusic
+
+# > Paypal US
+USER-AGENT,PayPal*,PayPal
+DOMAIN-KEYWORD,paypal,PayPal
+DOMAIN-SUFFIX,paypal.com,PayPal
+DOMAIN-SUFFIX,paypalobjects.com,PayPal
+
+# > TestFlight
+DOMAIN,testflight.apple.com,DIRECT
+
+# Local Area Network
+DOMAIN-SUFFIX,local,DIRECT
+IP-CIDR,10.0.0.0/8,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+IP-CIDR,127.0.0.0/8,DIRECT
+IP-CIDR,100.64.0.0/10,DIRECT

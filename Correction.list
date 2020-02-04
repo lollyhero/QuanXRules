@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,paypal.com,PayPal
 DOMAIN-SUFFIX,paypalobjects.com,PayPal
 
 # > TestFlight
-DOMAIN,testflight.apple.com,DIRECT
+# DOMAIN,testflight.apple.com,DIRECT
 
 # > Intranet
 ip-cidr, 192.168.0.0/16, Intranet
